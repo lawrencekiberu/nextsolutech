@@ -68,6 +68,7 @@ header nav ul li a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-image: url(technology.jpg);
 }
 #hero .btns .btn {
   background: white;
